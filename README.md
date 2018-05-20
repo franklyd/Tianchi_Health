@@ -1,2 +1,4 @@
 # Tianchi_Health
-Data for training
+
+** EF
+EF contains script for predicting EF and all training data.
