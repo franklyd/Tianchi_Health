@@ -1,4 +1,4 @@
-# Tianchi_Health
+# Tianchi Health Machine Learning Challenge 
 
-** EF
-EF contains script for predicting EF and all training data.
+## EF folder:
+It contains script for predicting EF and all training data.
